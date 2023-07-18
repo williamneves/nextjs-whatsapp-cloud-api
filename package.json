@@ -2,7 +2,7 @@
   "name": "nextjs-whatsapp-cloud-api",
   "version": "0.1.0a",
   "description": "Package to use the WhatsApp Cloud API in NodeJS, with especial focus to NextJS API Routes",
-  "main": "index.js",
+  "main": "dist/index.js",
   "license": "MIT",
   "scripts": {
     "build": "tsc",
